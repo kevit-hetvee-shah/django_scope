@@ -2,9 +2,13 @@
 db.sqlite3
 dynamo.py
 .idea
+**/.idea/
 __pycache__
-**/__pycache__/**
+**/__pycache__/
 migrations
+**/migrations/
 **/migrations/**
 abc.md
 agents/ms.txt
+scope_pipeline
+agents/scope_agency_individual_agents/test.py
