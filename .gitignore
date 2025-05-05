@@ -1,0 +1,10 @@
+.env
+db.sqlite3
+dynamo.py
+.idea
+__pycache__
+**/__pycache__/**
+migrations
+**/migrations/**
+abc.md
+agents/ms.txt
