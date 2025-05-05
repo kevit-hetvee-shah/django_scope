@@ -1,1 +1,0 @@
-Interactive assistant delivering quick answers and guidance related to inspection schedules, predicted market trends, and operational insights to support user decision-making.

@@ -1,1 +1,0 @@
-Enables inspectors and field staff to access schedules, receive smart routing, and report observations directly from the field to improve operational efficiency.
